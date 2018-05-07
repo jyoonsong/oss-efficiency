@@ -9,7 +9,7 @@
 
 ### Made up of...
 
-- [Github API v3](https://developer.github.com/v3/) - 현재는 GraphQL을 이용한 [Github API v4](https://developer.github.com/v4/)이 제공되고 있지만, 본 코드에는 v3에 해당되는 REST API가 사용
+- [Github API v3](https://developer.github.com/v3/) - 현재는 GraphQL을 이용한 [Github API v4](https://developer.github.com/v4/)이 제공되고 있지만, 본 코드에는 v3에 해당되는 REST API 사용
 
 - [Spreadsheet GEM](https://github.com/zdavatz/spreadsheet) - output을 xlsx로 출력
 
