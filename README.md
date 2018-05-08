@@ -7,7 +7,7 @@
 
 - 관련 내용은 [여기](https://jaeyoon.io/lab)에서 부분적으로 보실 수 있습니다.
 
-### Made up of...
+### Composed of...
 
 - [Github API v3](https://developer.github.com/v3/) - 현재는 GraphQL을 이용한 [Github API v4](https://developer.github.com/v4/)이 제공되고 있지만, 본 코드에는 v3에 해당되는 REST API 사용
 
