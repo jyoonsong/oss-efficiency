@@ -7,11 +7,11 @@
 
 - 관련 내용은 [여기](https://jaeyoon.io/lab)에서 부분적으로 보실 수 있습니다.
 
-### Composed of...
+### Dependencies
 
 - [Github API v3](https://developer.github.com/v3/)
 
-- [Spreadsheet GEM](https://github.com/zdavatz/spreadsheet) - output을 xlsx로 출력
+- [Spreadsheet GEM](https://github.com/zdavatz/spreadsheet)
 
 ### Ref
 
